@@ -9,11 +9,11 @@
 <br>
 
 <a href="https://www.idealizeer.com/">
-  <img src="https://img.shields.io/badge/🌐 Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:info@idealizeer.com">
-  <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://idealizeer.com/icsglobal/">
