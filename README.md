@@ -96,7 +96,3 @@ We craft **success stories** by combining:
 - Data Analytics
 
 ---
-
-C --> D[⚙️ Build]
-D --> E[🚀 Launch]
-E --> F[📈 Optimize]
