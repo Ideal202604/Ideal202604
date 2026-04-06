@@ -30,7 +30,6 @@
 ![Content Strategy](https://img.shields.io/badge/Content%20Strategy-Premium-f59e0b?style=flat-square&logo=notion&logoColor=white)
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-Creative-fb7185?style=flat-square&logo=adobe&logoColor=white)
 ![Available](https://img.shields.io/badge/Available%20for%20Projects-✔%20Open-22c55e?style=flat-square)
-![Location](https://img.shields.io/badge/📍%20Pune%20%7C%20Goa%20%7C%20Global-India-FF6B35?style=flat-square)
 
 </div>
 
@@ -38,7 +37,7 @@
 
 ## 💡 About Us
 
-**Idealizeer Content Solutions Pvt. Ltd.** is a next-generation **digital transformation & full-service growth agency** headquartered in **Pune, Maharashtra, India** — with an expansion office in **Goa**.
+**Idealizeer Content Solutions Pvt. Ltd.** is a next-generation **digital transformation & full-service growth agency** headquartered in **Pune, Maharashtra, India**.
 
 We are a powerhouse team of developers, designers, marketers, strategists, and content creators who believe that every brand deserves a **breakout moment**. From bold startups to growing enterprises, we combine creativity, technology, and strategy to turn big ideas into real results.
 
