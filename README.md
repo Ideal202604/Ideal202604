@@ -55,8 +55,8 @@ We operate across **6 core service verticals**, serve **4+ industry sectors**, a
 | 🏢 **Main Website** | [idealizeer.com](https://www.idealizeer.com/) | Official company website |
 | 🌍 **ICS Global** | [idealizeer.com/icsglobal](https://idealizeer.com/icsglobal/) | Global expansion platform |
 | ⚡ **ICS Platform** | [ics-vert.vercel.app](https://ics-vert.vercel.app/) | Live product platform |
-| 👩‍💻 **Portfolio — Arpita Kathane** | [View Portfolio](https://arpita-pankaj-kathane-portfolio.vercel.app/) | Team member portfolio |
-| 👨‍💻 **Portfolio — Sumit Dorle** | [View Portfolio](https://portfolio-sumit-dorle.vercel.app/) | Team member portfolio |
+| 👩‍💻 **Director & Chief Operating Officer Portfolio — Arpita Kathane** | [View Portfolio](https://arpita-pankaj-kathane-portfolio.vercel.app/) | Team member portfolio |
+| 👨‍💻 **Senior Manager Portfolio — Sumit Dorle** | [View Portfolio](https://portfolio-sumit-dorle.vercel.app/) | Team member portfolio |
 
 ---
 
