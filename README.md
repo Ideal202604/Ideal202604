@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:7c3aed,100:10b981&height=200&section=header&text=Idealizeer%20Content%20Solutions&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Innovate.%20Elevate.%20Dominate.&descSize=18&descAlignY=58&descColor=cccccc" />
+<img width="1600" height="400" alt="Idealizeer Logo" src="https://github.com/user-attachments/assets/3b5887a6-6b08-45dc-8ca8-328969db5a47" />
 
 </div>
 
