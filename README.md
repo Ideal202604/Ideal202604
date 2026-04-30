@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐%20Website-idealizeer.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.idealizeer.com/)
-[![ICS Global](https://img.shields.io/badge/🌍%20ICS_Global-Explore-10b981?style=for-the-badge&logo=earth&logoColor=white)](https://idealizeer.com/icsglobal/)
+[![ICS Global](https://img.shields.io/badge/🌍%20ICS_Global-Explore-10b981?style=for-the-badge&logo=earth&logoColor=white)](https://late-lab-8753.dev.animaapp.io/)
 [![Platform](https://img.shields.io/badge/⚡%20Platform-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ics-vert.vercel.app/)
 [![Email](https://img.shields.io/badge/📧%20Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@idealizeer.com)
 [![Phone](https://img.shields.io/badge/📞%20Call-+91%209922999389-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919922999389)
@@ -53,8 +53,9 @@ We operate across **6 core service verticals**, serve **4+ industry sectors**, a
 | Platform | Link | Description |
 |----------|------|-------------|
 | 🏢 **Main Website** | [idealizeer.com](https://www.idealizeer.com/) | Official company website |
-| 🌍 **ICS Global** | [idealizeer.com/icsglobal](https://idealizeer.com/icsglobal/) | Global expansion platform |
-| ⚡ **ICS Platform** | [ics-vert.vercel.app](https://ics-vert.vercel.app/) | Live product platform |
+| 🌍 **ICS Global** | [idealizeer.com/icsglobal](https://late-lab-8753.dev.animaapp.io/) | Global expansion platform |
+| ⚡ **ICS LMS-Student Dashboard** | [ics-lms-student-dashboard.vercel.app](https://purple-darkness-2718.dev.animaapp.io/) | Live student platform |
+| ⚡ **ICS LMS-Admin Dashboard** | [ics-lms-admin-dashboard.vercel.app](https://tiny-dawn-3030.preview.animaapp.io/?v=1777524851.259404) | Live admin platform |
 | 👩‍💻 **Director & Chief Operating Officer Portfolio — Arpita Kathane** | [View Portfolio](https://arpita-pankaj-kathane-portfolio.vercel.app/) | Team member portfolio |
 | 👨‍💻 **Senior Manager Portfolio — Sumit Dorle** | [View Portfolio](https://portfolio-sumit-dorle.vercel.app/) | Team member portfolio |
 
@@ -319,7 +320,7 @@ Meet the talented people building Idealizeer's client success stories:
 
 **Idealizeer is expanding globally** through **ICS Global** — delivering international-level digital solutions, content, and marketing services to clients across industries and borders.
 
-> 🔗 **[Explore ICS Global →](https://idealizeer.com/icsglobal/)**
+> 🔗 **[Explore ICS Global →](https://late-lab-8753.dev.animaapp.io/)**
 
 ---
 
